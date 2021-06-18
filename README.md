@@ -55,17 +55,17 @@ To Use the Tool simply Download the zip file or Clone it using the following com
 
 To Use the Tool simply Download the zip file..
 
-###STEP #1
+### STEP #1
 
 ![instastrastep1](https://user-images.githubusercontent.com/59790218/122523266-77b29080-d034-11eb-84f8-61cc7454d1f5.PNG)
 
 
-###STEP #2
+### STEP #2
 
 Extract the zip at any suitable location..
 
 
-###STEP #3
+### STEP #3
 
 Hold SHIFT KEY and hit right mouse button.
 
@@ -74,14 +74,14 @@ Hold SHIFT KEY and hit right mouse button.
 click on "Open Powershell Window Here"
 
 
-###STEP #4
+### STEP #4
 
 ![instastrawinstep4](https://user-images.githubusercontent.com/59790218/122524372-ae3cdb00-d035-11eb-9cc4-087f60e571ba.PNG)
 
 (IF in your System using "python python3file.py" python3 file is executed do follow above Screenshot else use "python3" command instead "python")
 
 
-###STEP #5
+### STEP #5
 
 run InstAstra.py file in Powershell or command prompt
 and hit '5' for help prompt..ENJOY!!!

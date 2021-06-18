@@ -26,12 +26,12 @@ def start():
 def menu():
     while True:
         print(F.LIGHTMAGENTA_EX+'''\n
-            \t\t\t1> Instagram Profile Details Extractor.
-            \t\t\t2> Instagram Profile DP Downloader.
-            \t\t\t3> Instagram Profile Stories Downloader.
-            \t\t\t4> Instagram Profile All_Posts Downloader.
-            \t\t\t5> Help.
-            \t\t\t6> Exit.
+            \t\t1> Instagram Profile Details Extractor.
+            \t\t2> Instagram Profile DP Downloader.
+            \t\t3> Instagram Profile Stories Downloader.
+            \t\t4> Instagram Profile All_Posts Downloader.
+            \t\t5> Help.
+            \t\t6> Exit.
         \n''')
 
         operation = input(F.CYAN+"InstAstra >> "+F.WHITE)

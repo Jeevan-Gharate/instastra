@@ -3,6 +3,5 @@ pyfiglet
 instaloader
 colorama
 regex
-subprocess
+requests
 
-subprocess

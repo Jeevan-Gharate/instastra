@@ -1,7 +1,7 @@
 import sys
 import os
 
-print("/n/t/t/tMake Sure You Have Active Internet Connection and 'pip' installed.../n")
+print("\n\t\t\tMake Sure You Have Active Internet Connection and 'pip' installed...\n")
 try:
     os.system('pip install -r requirements.txt --ignore-installed')
     os.system('pip3 install -r requirements.txt')

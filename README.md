@@ -93,7 +93,7 @@ and hit '5' for help prompt..ENJOY!!!
 
 <b><i> If in your System python followed by pythonV3 file is used to run Python3 file do make the below changes else ignore!! </i></b>
 
-Open `InstAstra.py` file and change all red marked "python3" to "python"..
+<b><i>Open `InstAstra.py` file and change all red marked "python3" to "python"..</i></b>
 
 ![image](https://user-images.githubusercontent.com/59790218/122525744-2d7ede80-d037-11eb-9b6d-2e5e177481dd.png)
 
@@ -101,3 +101,19 @@ Open `InstAstra.py` file and change all red marked "python3" to "python"..
 
 ![image](https://user-images.githubusercontent.com/59790218/122525994-7040b680-d037-11eb-8f9a-5d6f18cf4924.png)
 
+
+# ⁜ Report Issues ~ 
+
+If found Bugs in program do report on - 
+
+`https://github.com/Jeevan-Gharate/instastra/issues`
+
+If no one replies within 24 Hours contact me Directly - 
+
+`https://discordapp.com/users/Jeevan#2343`
+
+here:
+
+[<img align="left" alt="mechx | Medium" width="85px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />][Discord]🙌😇
+
+[discord]: https://discordapp.com/users/Jeevan#2343

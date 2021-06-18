@@ -31,7 +31,23 @@ To Use the Tool simply Download the zip file or Clone it using the following com
 
 <b> ⩥ Linux:</b>
 
-`git clone https://github.com/Jeevan-Gharate/instastra.git`
+`sudo git clone https://github.com/Jeevan-Gharate/instastra.git`
+
+![instastrastep1 - Copy](https://user-images.githubusercontent.com/59790218/122521680-bf381d00-d032-11eb-8dbb-f64f35906cce.PNG)
+
 
 <i>switch to instastra Directory</i>
+
+`sudo python3 build.py`
+
+![instastra_step2](https://user-images.githubusercontent.com/59790218/122521759-d545dd80-d032-11eb-94de-2525797f07a9.PNG)
+
+
+<i>run the program!</i>
+
+`sudo python3 InstAstra.py`
+
+![instastra_step3](https://user-images.githubusercontent.com/59790218/122522157-44233680-d033-11eb-9ca6-0d4876888c77.PNG)
+
+
 

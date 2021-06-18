@@ -1,0 +1,6 @@
+requests
+pyfiglet
+instaloader
+colorama
+regex
+subprocess

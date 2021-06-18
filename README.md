@@ -116,4 +116,8 @@ here:
 
 [<img align="left" alt="mechx | Medium" width="85px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />][Discord]🙌😇
 
+# 
+
+# Made With ❤ by Jeevan Gharate 😇👑💻
+
 [discord]: https://discordapp.com/users/Jeevan#2343

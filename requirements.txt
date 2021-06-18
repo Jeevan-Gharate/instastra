@@ -3,5 +3,3 @@ pyfiglet
 instaloader
 colorama
 regex
-requests
-

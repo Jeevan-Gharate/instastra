@@ -102,6 +102,18 @@ and hit '5' for help prompt..ENJOY!!!
 ![image](https://user-images.githubusercontent.com/59790218/122525994-7040b680-d037-11eb-8f9a-5d6f18cf4924.png)
 
 
+## ↣ Special Thanks🙌😇 ~ 
+
+[<img align="left" alt="mechx | Medium" width="95px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />][instaloader]❤
+
+<i>For this Awesome Module!!</i>
+
+[<img align="left" alt="mechx | Medium" width="95px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />][vedantB]❤
+
+<i>for this nice README.md outlet!!</i>
+
+
+
 # ⁜ Report Issues ~ 
 
 If found Bugs in program do report on - 
@@ -121,3 +133,5 @@ here:
 # Made With ❤ by Jeevan Gharate 😇👑💻
 
 [discord]: https://discordapp.com/users/Jeevan#2343
+[instaloader]: https://github.com/instaloader/
+[vedantB]: https://github.com/Vedant-Bhalgama

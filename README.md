@@ -113,6 +113,10 @@ and hit '5' for help prompt..ENJOY!!!
 <i>for this nice README.md outlet!!</i>
 
 
+## ⁜ Video Tutorial ~
+  
+  [Click Here](https://youtu.be/wkjweMsTEjY)
+
 
 # ⁜ Report Issues ~ 
 

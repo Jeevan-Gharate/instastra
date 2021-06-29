@@ -65,7 +65,7 @@ def menu():
             sleep(2)
             sys.exit(1)
         else:
-            print("Invlid Options!!")
+            print("Invlid Option!!")
 
 
 def help():
